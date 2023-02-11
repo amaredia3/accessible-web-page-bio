@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+    font-size:xx-large;
+    margin-top: 3%;
+
+}
+h2 {
+    font-size: x-large;
+}
+p {
+    font-size: large;
+}
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 3%;
+    display: inline;
+}
+div {
+   text-align: center;
+}
+.am-logo {
+    width: 100px;
+    height: 100px;
+}
